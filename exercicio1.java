@@ -7,7 +7,7 @@ import java.time.format.DateTimeParseException;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class CadastroEmprego {
+public class exercicio1 {
     public static void main(String[]args) {
         Scanner scanner = new Scanner(System.in);
 
