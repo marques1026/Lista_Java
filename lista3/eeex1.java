@@ -1,0 +1,2 @@
+public class eeex1 {
+}
