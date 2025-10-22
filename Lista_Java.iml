@@ -6,8 +6,10 @@
       <sourceFolder url="file://$MODULE_DIR$/lista1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lista2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lista3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafio" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
   </component>
 </module>
